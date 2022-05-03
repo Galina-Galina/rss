@@ -46,7 +46,7 @@ const dataReverse = data => {
 ### Courses:
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * Git video courses
-* JavaScript https://learn.javascript.ru/
+* JavaScript Manual on learnjavascript.ru (in progress)
 ---
 
 ### Experience
