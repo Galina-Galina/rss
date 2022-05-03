@@ -13,7 +13,9 @@
 
 
 ### About Me
-
+I really need in activities where I can develop during my life. 
+That is why I`m here. 
+My goal is to gain knowledge in the field of front-end development.
 
 ### Skills
 
