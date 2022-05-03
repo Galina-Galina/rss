@@ -1,29 +1,30 @@
 # Galina Oberemok
 
 
-## Junior Frontend Developer
+### Junior Frontend Developer
 
 
-## Contacts:
+### Contacts:
 * Phone: +7 9500301755
 * E-mail: galinaober5@gmail.com
+* Telegram: @galinaober
 * GitHub: Galina-Galina
 * Discord: Galina@(Galina-Galina)
 
 
-## About Me
+### About Me
 
 
-## Skills
+### Skills
 
 
-## Code examples
+### Code examples
 
 
-## Education
+### Education
 
 
-## Experience
+### Experience
 
 
-## Languages
+### Languages
