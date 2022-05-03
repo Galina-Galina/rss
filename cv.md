@@ -22,12 +22,12 @@ My goal is to gain knowledge in the field of front-end development.
 ---
 
 ### Skills
-*HTML
-*CSS
-*JavaScript Basics
-*Git/GitHub
-*Figma(for web development)
-*VS Code
+* HTML
+* CSS
+* JavaScript Basics
+* Git/GitHub
+* Figma(for web development)
+* VS Code
 
 ---
 
@@ -43,16 +43,17 @@ const dataReverse = data => {
 ```
 ---
 
-
-### Education
-
+### Courses:
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* Git video courses
+* JavaScript https://learn.javascript.ru/
 ---
 
 ### Experience
 
 ---
 
-
 ### Languages
-
+* Russian - Native
+* English - (in progress)
 ---
