@@ -1,2 +1,1 @@
-# galina-galina-JSFEPRESCHOOL
-Private repository for @galina-galina
+https://rolling-scopes-school.github.io/Galina-Galina/portfolio/
